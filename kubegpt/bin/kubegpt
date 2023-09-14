@@ -1,0 +1,6 @@
+#!/Users/hemantmanwani/Downloads/kubegpt/kubegpt/bin/python
+import sys
+from kubegpt.cli import main
+
+if __name__ == '__main__':
+    sys.exit(main())
