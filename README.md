@@ -10,7 +10,7 @@ Follow the steps below to set up the project:
    ```bash
    python -m venv venv
    source venv/bin/activate
-  ```
+  ``
 
 2. **Install Poetry**
   ```bash
